@@ -54,6 +54,7 @@ Start it:
 Now mage is running on [http://localhost:6789/](http://localhost:6789/)
 
 What's the version of mage? 
+Answer: `0.9.72`
 
 ## Creating a RAG pipeline
 
@@ -81,6 +82,9 @@ How many FAQ documents we processed?
 * 2
 * 3
 * 4
+
+![load](https://github.com/elinaharnovich/llm-zoomcamp/blob/main/homework-5/images/load.JPG?raw=true)
+Answer: `1`
 
 ## Q3. Chunking
 
@@ -143,6 +147,8 @@ How many documents (chunks) do we have in the output?
 * 86
 * 96
 
+![chunk](https://github.com/elinaharnovich/llm-zoomcamp/blob/main/homework-5/images/chunk.JPG?raw=true)
+Answer: `86`
 
 
 ## Tokenization and embeddings
@@ -245,7 +251,10 @@ Now execute the block.
 What's the last document id?
 
 Also note the index name.
+![index-1](https://github.com/elinaharnovich/llm-zoomcamp/blob/main/homework-5/images/index-1.JPG?raw=true)
 
+![index-2](https://github.com/elinaharnovich/llm-zoomcamp/blob/main/homework-5/images/index-2.JPG?raw=true)
+Answer: `fa136280`
 
 ## Q5. Testing the retrieval
 
@@ -271,7 +280,11 @@ Let's re-execute the entire pipeline with the updated data.
 
 For the same query "When is the next cohort?". What's the ID of the top matching result?
 ![reindexing](https://github.com/elinaharnovich/llm-zoomcamp/blob/main/homework-5/images/reindexing.JPG?raw=true)
+Answer: `b6fa77f3`
 
+## Final pipeline
+Saved in phantasmal_warp.zip
+![pipeline](https://github.com/elinaharnovich/llm-zoomcamp/blob/main/homework-5/images/pipeline.JPG?raw=true)
 
 ## Submit the results
 
