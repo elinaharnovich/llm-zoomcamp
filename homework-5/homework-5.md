@@ -255,7 +255,8 @@ test it.
 Let's use the following query: "When is the next cohort?"
 
 What's the ID of the top matching result?
-
+![retrieval](https://github.com/elinaharnovich/llm-zoomcamp/blob/main/homework-5/images/retrieval.JPG?raw=true)
+Answer: `bf024675`
 
 ## Q6. Reindexing
 
@@ -269,7 +270,7 @@ The ID of this document is `1T3MdwUvqCL3jrh3d3VCXQ8xE0UqRzI3bfgpfBq3ZWG0`.
 Let's re-execute the entire pipeline with the updated data.
 
 For the same query "When is the next cohort?". What's the ID of the top matching result?
-
+![reindexing](https://github.com/elinaharnovich/llm-zoomcamp/blob/main/homework-5/images/reindexing.JPG?raw=true)
 
 
 ## Submit the results
