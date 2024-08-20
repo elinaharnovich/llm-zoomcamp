@@ -289,6 +289,7 @@ Answer: `b6fa77f3`
 
 ## Final pipeline
 Saved in phantasmal_warp.zip and looks like below:
+
 ![pipeline](https://github.com/elinaharnovich/llm-zoomcamp/blob/main/homework-5/images/pipeline.JPG?raw=true)
 
 ## Submit the results
